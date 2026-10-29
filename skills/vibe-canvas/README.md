@@ -10,7 +10,7 @@ Maintainers: bump `VERSION` with every change; installed copies update when it d
 
 ## For the assistant
 
-Install the whole `vibe-canvas` folder (this README's folder: `SKILL.md`, `references/`, `scripts/`), not only `SKILL.md`. Do the work yourself; the user may not be a programmer, and you may be running on a remote machine.
+Install the whole `vibe-canvas` folder (this README's folder: `SKILL.md`, `scripts/`), not only `SKILL.md`. Do the work yourself; the user may not be a programmer, and you may be running on a remote machine.
 
 ### 1. Get the folder
 
